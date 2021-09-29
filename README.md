@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... games
 - 🌱 I’m currently learning ... everything
 - 💞️ I’m looking to collaborate on ... something in future
-- 📫 How to reach me ... via email
+- 📫 How to reach me ... via email chuzhyk@protonmail.ch
 
 <!---
 NeoKnight0609/NeoKnight0609 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
