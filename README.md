@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @NeoKnight0609
-- 👀 I’m interested in ... games
-- 🌱 I’m currently learning ... everything
-- 💞️ I’m looking to collaborate on ... something in future
+
 - 📫 How to reach me ... via email andrey.chuzhik@gmail.com
 
 <!---
